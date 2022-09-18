@@ -1,3 +1,7 @@
-# VLDB 2022 Tutorial on Very Large Language Models
+# VLDB'22 Tutorial on Very Large Language Models
 
-This Web site will contain material for the VLDB 2022 tutorial, titled "From BERT to GPT-3 Codex: Harnessing the Potential of Very Large Language Models for Data Management".
+The introduction of Transformer-based language models has led to astonishing advances in the domain of natural language processing over the past years. Not only do such models dominate in a variety of standard benchmarks. The latest generation of language models can be specialized to novel, formerly unseen tasks with little to virtually no training data. 
+
+In this tutorial, I discuss the two key ideas enabling ultra-large language models: a new neural network architecture, the Transformer, and an unsupervised training process, based on the idea of transfer learning. After discussing the theoretical concepts behind language models, I demonstrate GPT-3 and other models and provide pointers on how to get access to this technology. Finally, I discuss novel use cases in data management that are enabled by language models, covering recent research and open problems.
+
+**The slides can be found [here](lm4dbtrummer.pdf).**
