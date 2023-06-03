@@ -9,3 +9,17 @@ In this tutorial, I discuss the two key ideas enabling ultra-large language mode
 **Slides of the VLDB'22 tutorial (90 minutes) are [here](lm4dbtrummer.pdf).**
 
 **Slides of the BTW'23 tutorial (180 minutes) are [here](https://drive.google.com/file/d/1U-2j8oi5au3nuYwPIlhnno7c6UNDfifl/view?usp=sharing).**
+
+Please use the following citation to refer to this tutorial:
+```
+@article{Trummer2022e,
+author = {Trummer, Immanuel},
+doi = {10.14778/3554821.3554896},
+journal = {PVLDB},
+number = {12},
+pages = {3770 -- 3773},
+title = {{From BERT to GPT-3 Codex: Harnessing the Potential of Very Large Language Models for Data Management}},
+volume = {15},
+year = {2022}
+}
+```
