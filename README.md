@@ -18,7 +18,7 @@ doi = {10.14778/3554821.3554896},
 journal = {PVLDB},
 number = {12},
 pages = {3770 -- 3773},
-title = {{From BERT to GPT-3 Codex: Harnessing the Potential of Very Large Language Models for Data Management}},
+title = {From BERT to GPT-3 Codex: Harnessing the Potential of Very Large Language Models for Data Management},
 volume = {15},
 year = {2022}
 }
