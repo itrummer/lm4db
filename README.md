@@ -10,6 +10,8 @@ In this tutorial, I discuss the two key ideas enabling ultra-large language mode
 
 **Slides of the BTW'23 tutorial (180 minutes) are [here](https://drive.google.com/file/d/1U-2j8oi5au3nuYwPIlhnno7c6UNDfifl/view?usp=sharing).**
 
+**Slides of the ICDE'24 tutorial (90 minutes) are [here](ICDEtutorial1.pdf).**
+
 Please use the following citation to refer to this tutorial:
 ```
 @article{Trummer2022e,
